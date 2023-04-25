@@ -1,21 +1,3 @@
-<svg fill="none" width="100%"  xmlns="http://www.w3.org/2000/svg">
- <foreignObject width="100%" height="100%">
-  <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        * {
-        text-decoration: none;
-        color: rgb(108, 99, 99);
-        font-weight: 900; }
-    
-         h1 {
-         text-shadow: 0px 1px 2px rgb(108, 99, 99);
-          }
-         a {
-          margin-right: 5px;
-          border-bottom: solid lightgray;
-          }
-      </style>
-
 <h1 align="center">Hi 👋, I'm Imane!</h1>
 <h3 align="center">I'm currently studying Web Development and Programming</h3>
 
@@ -99,6 +81,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imanelamriui&" alt="imanelamriui" />
 </p>
 
-	 </div>
- </foreignObject>
-</svg>
+	
