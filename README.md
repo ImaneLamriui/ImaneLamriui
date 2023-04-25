@@ -1,4 +1,22 @@
-<h1 align="center" style="text-shadow: 0px 1px 2px rgb(108, 99, 99);">Hi 👋, I'm Imane!</h1>
+<svg fill="none" width="100%"  xmlns="http://www.w3.org/2000/svg">
+ <foreignObject width="100%" height="100%">
+  <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * {
+        text-decoration: none;
+        color: rgb(108, 99, 99);
+        font-weight: 900; }
+    
+         h1 {
+         text-shadow: 0px 1px 2px rgb(108, 99, 99);
+          }
+         a {
+          margin-right: 5px;
+          border-bottom: solid lightgray;
+          }
+      </style>
+
+<h1 align="center">Hi 👋, I'm Imane!</h1>
 <h3 align="center">I'm currently studying Web Development and Programming</h3>
 
 <p align="left"> <img
@@ -24,49 +42,49 @@
             alt="bootstrap" width="40" height="40" style="margin-right: 5px; border-bottom: solid lightgray;"/></a> <a href="https://www.w3schools.com/css/" target=""
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" style="margin-right: 5px;border-bottom: solid lightgray;"/> </a> <a href="https://www.w3.org/html/" target=""
+            alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target=""
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" style="margin-right: 5px;border-bottom: solid lightgray;"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+            alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" style="margin-right: 5px;border-bottom: solid lightgray;"/> </a> <a href="https://www.php.net" target="" rel="noreferrer">
+            alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
-            width="40" height="40" style="margin-right: 5px;border-bottom: solid lightgray;"/> </a> <a href="https://www.python.org" target="" rel="noreferrer"> <img
+            width="40" height="40"/> </a> <a href="https://www.python.org" target="" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" style="margin-right: 5px;border-bottom: solid lightgray;"/> </a> <a href="https://jestjs.io" target="" rel="noreferrer"><a
+            alt="python" width="40" height="40"/> </a> <a href="https://jestjs.io" target="" rel="noreferrer"><a
             href="https://tailwindcss.com/" target="" rel="noreferrer"> <img
                 src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-                height="40" style="margin-right: 5px;border-bottom: solid lightgray;"/> </a> <a href="https://www.typescriptlang.org/" target="" rel="noreferrer"> <img
+                height="40"/> </a> <a href="https://www.typescriptlang.org/" target="" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-                alt="typescript" width="40" height="40" style="margin-right: 5px;border-bottom: solid lightgray;"/> </a></p>
+                alt="typescript" width="40" height="40"/> </a></p>
 
 <h3>Database</h3>
 <p><a href="https://www.mysql.com/" target="" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" style="margin-right: 5px;border-bottom: solid lightgray;"/> </a> <a href="https://www.oracle.com/" target="" rel="noreferrer">
+            alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-            alt="oracle" width="40" height="40" style="margin-right: 5px;border-bottom: solid lightgray;"/> </a> <a href="https://www.microsoft.com/en-us/sql-server"
+            alt="oracle" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server"
         target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-            alt="mssql" width="40" height="40" style="margin-right: 5px;border-bottom: solid lightgray;"/> </a><a href="https://www.sqlite.org/" target="" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" style="margin-right: 5px;border-bottom: solid lightgray;"/> </a>
+            alt="mssql" width="40" height="40"/> </a><a href="https://www.sqlite.org/" target="" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 </p>
 <h3>Tools & version control</h3>
 <p><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
             src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"
-            alt="GitHub" width="40" height="40" style="margin-right: 5px;border-bottom: solid lightgray;"/> </a> <a href="https://www.linux.org/" target="" rel="noreferrer">
+            alt="GitHub" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="" rel="noreferrer">
         <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"
-            alt="GitHub" width="40" height="40" style="margin-right: 5px;border-bottom: solid lightgray;"/> </a> </p>
+            alt="GitHub" width="40" height="40"/> </a> </p>
 
 
 <h3>Testing</h3>
-<p><a  href="https://www.cypress.io/"  target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="cypress" width="40" height="40" style="margin-right: 5px;border-bottom: solid lightgray;"/> </a></p>
+<p><a  href="https://www.cypress.io/"  target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="cypress" width="40" height="40"/> </a></p>
 
 <h3>Other</h3>
 <p><a href="https://www.linux.org/" target="" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="40" height="40" style="margin-right: 5px;border-bottom: solid lightgray;"/> </a><a href="https://git-scm.com/" target="" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 5px;border-bottom: solid;border-bottom: solid lightgray;"/> </a>
+            width="40" height="40"/> </a><a href="https://git-scm.com/" target="" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
 
@@ -80,4 +98,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imanelamriui&" alt="imanelamriui" />
 </p>
-  
+
+	 </div>
+ </foreignObject>
+</svg>
