@@ -1,10 +1,3 @@
-<style>
-    * {
-        text-decoration: none;
-        color:rgb(108, 99, 99);
-        font-weight: 700;
-     }
-</style>
 <h1 align="center" style="text-shadow: 0px 1px 2px rgb(108, 99, 99);">Hi 👋, I'm Imane!</h1>
 <h3 align="center">I'm currently studying Web Development and Programming</h3>
 
@@ -87,3 +80,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imanelamriui&" alt="imanelamriui" />
 </p>
+  
