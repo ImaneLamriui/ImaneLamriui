@@ -5,9 +5,9 @@
         src="https://komarev.com/ghpvc/?username=imanelamriui&label=Profile%20views&color=0e75b6&style=flat"
         alt="imanelamriui" /> </p>
 
-<h3 align="left">Connect with me :</h3>
+<h3 align="left">Contact :</h3>
 <p align="left">
-    <a href="https://codepen.io/imanelamriui" target="blank"><img align="center"
+    <a href="https://codepen.io/imanelamriui" target=""><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
             alt="@imanelamriui" height="30" width="40" /></a>
     <a href="https://twitter.com/imanelamriui" target="blank"><img align="center"
@@ -39,7 +39,7 @@
                 src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
                 height="40"/> </a> <a href="https://www.typescriptlang.org/" target="" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-                alt="typescript" width="30" height="30"/> </a></p>
+                alt="typescript" width="30" height="30"/> </a>  <a href="https://angular.io/"><img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"  alt="Angular" width="30" height="30"></a></p>
 
 <h3>Database</h3>
 <p><a href="https://www.mysql.com/" target="" rel="noreferrer"> <img
