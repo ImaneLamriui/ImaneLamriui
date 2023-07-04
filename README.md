@@ -5,7 +5,7 @@
         src="https://komarev.com/ghpvc/?username=imanelamriui&label=Profile%20views&color=0e75b6&style=flat"
         alt="imanelamriui" /> </p>
 
-<h3 align="left">Contact :</h3>
+<h3 align="left">Contact:</h3>
 <p align="left">
     <a href="https://codepen.io/imanelamriui" target=""><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
@@ -41,7 +41,7 @@
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
                 alt="typescript" width="30" height="30"/> </a>  <a href="https://angular.io/"><img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"  alt="Angular" width="30" height="30"></a></p>
 
-<h3>Database</h3>
+<h3>Database:</h3>
 <p><a href="https://www.mysql.com/" target="" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" width="40" height="40"/></a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
@@ -51,7 +51,7 @@
             alt="mssql" width="40" height="40"/></a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
 </p>
-<h3>Tools & version control</h3>
+<h3>Tools & version control:</h3>
 <p><a href="https://github.com" target="_blank" rel="noreferrer"> <img
             src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"
             alt="GitHub" width="35" height="35"/> </a> <a href="https://code.visualstudio.com/" target="" rel="noreferrer">
@@ -59,10 +59,10 @@
             alt="GitHub" width="30" height="30"/> </a> </p>
 
 
-<h3>Testing</h3>
+<h3>Testing:</h3>
 <p><a  href="https://www.cypress.io/"  target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="cypress" width="40" height="40"/> </a></p>
 
-<h3>Other</h3>
+<h3>Other:</h3>
 <p><a href="https://www.linux.org/" target="" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
             width="40" height="40"/> </a><a href="https://git-scm.com/" target="" rel="noreferrer"> <img
