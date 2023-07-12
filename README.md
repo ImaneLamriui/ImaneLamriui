@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Imane!</h1>
-<h3 align="center">I'm currently studying Web Development and Programming</h3>
+<h3 align="center">I'm learning Web Development and Programming <</>/> <br>
+	           I'am curious about web development and open to learning new things and trying them out.<br>
+	           I enjoyed sharing knowledge, it's super useful in my own learning process, 'it helps others – but it also helps me!'<br>
+                   I like creativity in art and crafts.
+</h3>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=imanelamriui&label=Profile%20views&color=0e75b6&style=flat"
@@ -46,9 +50,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" width="40" height="40"/></a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-            alt="oracle" width="40" height="40"/></a> <a href="https://www.microsoft.com/en-us/sql-server"
-        target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-            alt="mssql" width="40" height="40"/></a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img
+            alt="oracle" width="40" height="40"/></a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
 </p>
 <h3>Tools & version control:</h3>
@@ -67,6 +69,8 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
             width="40" height="40"/> </a><a href="https://git-scm.com/" target="" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+	<a href="https://firebase.google.com/" target="" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
 
