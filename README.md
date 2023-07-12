@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imane!</h1>
-<h3 align="center">I'm learning Web Development and Programming <</>/> <br>
-	           I'am curious about web development and open to learning new things and trying them out.<br>
-	           I enjoyed sharing knowledge, it's super useful in my own learning process, 'it helps others – but it also helps me!'<br>
-                   I like creativity in art and crafts.
+<h3>I'm learning Web Development <</>/> and Programming<br>I'am curious about web development, open to learning new things and trying them out.<br>I enjoyed sharing knowledge, it's super useful in my own learning process,<i>'it helps others – but it also helps me!'.</i><br>Creativity in art and crafts is one of my favourite hobbies.
 </h3>
 
 <p align="left"> <img
