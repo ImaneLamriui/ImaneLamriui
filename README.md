@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imane!</h1>
-<h3>I'm learning Web Development <</>/> and Programming<br>I'am curious about web development, open to learning new things and trying them out.<br>I enjoyed sharing knowledge, it's super useful in my own learning process,<i>'it helps others – but it also helps me!'.</i><br>Creativity in art and in crafts is one of my favourite hobbies.
+<h3 align="center">Passionate about Web Development <</>/> and Programming<br>I'am creating some open source projects to share my knowledge with the community.
 </h3>
 
 <p align="left"> <img
@@ -9,14 +9,17 @@
 <h3 align="left">Contact:</h3>
 <p align="left">
     <a href="https://codepen.io/imanelamriui" target=""><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-            alt="@imanelamriui" height="30" width="40" /></a>
+            src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg"
+            alt="@imanelamriui" height="25" width="25" /></a>
     <a href="https://twitter.com/imanelamriui" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="imanelamriui" height="25" width="30" /></a>
-    <a href="mailto:ilamriui@gmail.com" target="blank"><img align="center"
-            src="https://graffica.info/wp-content/uploads/2021/06/gmail-google-logo-rebrand-workspace-design_dezeen_2364_col_0-750x422.webp"
-            alt="imanelamriui" height="30" width="40" /></a>
+            alt="email" height="25" width="30" /></a>
+	 <a href="https://www.linkedin.com/in/imane-l/" target="blank"><img align="center"
+            src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
+            alt="linkedin" height="25" width="30" /></a>
+   <a href="mailto:ilamriui@gmail.com" target="blank"><img align="center"
+            src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"
+            alt="imanelamriui" height="30" width="25" /></a>
 </p>
 
 <h3 align="left">Languages and Frameworks:</h3>
@@ -46,9 +49,9 @@
 <p><a href="https://www.mysql.com/" target="" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" width="40" height="40"/></a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-            alt="oracle" width="40" height="40"/></a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
+        <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"
+            alt="oracle" width="30" height="30"/></a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/></a>
 </p>
 <h3>Tools & version control:</h3>
 <p><a href="https://github.com" target="_blank" rel="noreferrer"> <img
