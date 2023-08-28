@@ -1,26 +1,10 @@
 <h1 align="center">Hi 👋, I'm Imane!</h1>
-<h3 align="center">Passionate about Web Development <</>/> and Programming<br>I'am creating some open source projects to share my knowledge with the community.
+<h3 align="center">Web Development <</>/>, Programming
 </h3>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=imanelamriui&label=Profile%20views&color=0e75b6&style=flat"
         alt="imanelamriui" /> </p>
-
-<h3 align="left">Contact:</h3>
-<p align="left">
-    <a href="https://codepen.io/imanelamriui" target=""><img align="center"
-            src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg"
-            alt="@imanelamriui" height="25" width="25" /></a>
-    <a href="https://twitter.com/imanelamriui" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="email" height="25" width="30" /></a>
-	 <a href="https://www.linkedin.com/in/imane-l/" target="blank"><img align="center"
-            src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
-            alt="linkedin" height="25" width="30" /></a>
-   <a href="mailto:ilamriui@gmail.com" target="blank"><img align="center"
-            src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"
-            alt="imanelamriui" height="30" width="25" /></a>
-</p>
 
 <h3 align="left">Languages and Frameworks:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="" rel="noreferrer"> <img
