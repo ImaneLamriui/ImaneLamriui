@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Imane!</h1>
-<h3 align="center">Fullstack Web Developer
+<h3 align="center">Fullstack Web Developer & Cybersecurity Enthusiast | Angular, Laravel, Docker, AWS
 </h3>
+
+<p>As a freelance (independent professional), I collaborate on various web application development projects. I enjoy solving complex problems and specialize in full-stack development with frameworks like Angular and Laravel, while leveraging technologies such as Docker, AWS, and APIs. Security remains a central focus in all my development work, ensuring robust, secure applications.
+	
+I recently obtained a Master’s in Professional Cybersecurity and am currently continuing my training to stay updated with the latest trends and techniques in the field. While I haven’t yet worked on corporate security projects, I’ve gained extensive practical experience through my studies, and I’m passionate about integrating cybersecurity into everything I do.</p>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=imanelamriui&label=Profile%20views&color=0e75b6&style=flat"
