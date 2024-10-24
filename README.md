@@ -2,9 +2,9 @@
 <h3 align="center">Fullstack Web Developer & Cybersecurity Enthusiast | Angular, Laravel, Docker, Cloud Services
 </h3>
 
-<p>As a freelance (independent professional), I collaborate on various web application development projects. I enjoy solving complex problems and specialize in full-stack development with frameworks like Angular and Laravel, while leveraging technologies such as Docker, AWS, and APIs. Security remains a central focus in all my development work, ensuring robust, secure applications.
-	
-I recently obtained a Master’s in Professional Cybersecurity and am currently continuing my training to stay updated with the latest trends and techniques in the field. While I haven’t yet worked on corporate security projects, I’ve gained extensive practical experience through my studies, and I’m passionate about integrating cybersecurity into everything I do.</p>
+<p align="center">Como 👨‍💻 profesional independiente, colaboro en diversos proyectos de desarrollo de aplicaciones web. Disfruto resolviendo 🧩 problemas complejos y me especializo en el desarrollo full-stack con frameworks como 📦 Angular y 🌟 Laravel, aprovechando tecnologías como 🐳 Docker, ☁️ Servicios en la Nube y 🔗 APIs. La 🔒 seguridad sigue siendo un enfoque central en todo mi trabajo de desarrollo, asegurando aplicaciones robustas y seguras.</p>
+
+<p align="center">Recientemente obtuve una 🎓 Maestría en Ciberseguridad Profesional y actualmente continúo mi formación para mantenerme actualizado con las últimas tendencias y técnicas en el campo. Aunque aún no he trabajado en proyectos de 🏢 seguridad corporativa, he adquirido una amplia experiencia práctica a través de mis estudios y tengo una gran pasión por integrar la 🔐 ciberseguridad en todo lo que hago.</p>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=imanelamriui&label=Profile%20views&color=0e75b6&style=flat"
