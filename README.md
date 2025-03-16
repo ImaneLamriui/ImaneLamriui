@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imane!</h1>
-<h3 align="center">Fullstack Web Developer & Cybersecurity Enthusiast | Angular, Laravel, Docker, Cloud Services AWS (EC2, CLI) | Passionate about technological advancements.
+<h3 align="center">Fullstack Web Developer & Cybersecurity Enthusiast | CISCO Certified | Docker| Cloud Services AWS (EC2, CLI) | Passionate about technological advancements.
 </h3>
 
 
